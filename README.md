@@ -11,7 +11,7 @@ Use
 ```python
 python audio_preprocessing.py
 ```
-in folder `./Codelist/`. Generate processed audio files in three folders `./SortedData/Song_22050`, `./SortedData/BirdsOnly` and `./SortedData/NoiseOnly`.
+in folder `./Codelist/`(https://www.baidu.com). Generate processed audio files in three folders `./SortedData/Song_22050`, `./SortedData/BirdsOnly` and `./SortedData/NoiseOnly`.
 #### 4. Dataset partition.
 Split training set, validation set and testing set. Use 
 ```python
